@@ -9,7 +9,7 @@ dotnet build
 ## Sample usage
 ### Config
 ```json
-  "AccessToken": "<YourAccessToken>"
+"AccessToken": "<YourAccessToken>"
 ```
 ### Run
 ```cmd
